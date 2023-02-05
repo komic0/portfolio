@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T12:03:41.751Z" agent="5.0 (Windows)" etag="yar1-dVM7r-nYzlCcfR1" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T12:06:18.679Z" agent="5.0 (Windows)" etag="sv9k3IWTxj0BDXBgJ2Si" version="20.8.16" type="github" pages="2">
   <diagram name="Page-1" id="yzhq2jbpV9woP7R0T0p-">
-    <mxGraphModel dx="819" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,37 @@
         </mxCell>
         <mxCell id="5dsSe7JJRW0QpsnveMTH-38" value="&lt;div&gt;خیر&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;strokeWidth=1;shadow=0;glass=0;fontStyle=0;labelBackgroundColor=none;fillColor=none;strokeColor=default;dashed=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="91.09692307692308" y="335.96153846153845" width="50.390769230769244" height="24.23076923076923" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5LodwSpqroWSyXBL39XU" name="Page-2">
+    <mxGraphModel dx="1434" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;اطلاعات فروشگاه&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;flipH=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="324.51020408163265" y="19.996666666666613" width="183.67346938775512" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-2" value="فرم قرارداد" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="321.6730612244898" y="148.32999999999998" width="183.67346938775512" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-4" value="دستنویس" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="505.3465306122449" y="229.99666666666673" width="183.67346938775512" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="qZdYp6hgqc6xG1bBT3IC-2" target="qZdYp6hgqc6xG1bBT3IC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=10;" edge="1" parent="1" source="qZdYp6hgqc6xG1bBT3IC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237.48938775510214" y="334.99666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-7" value="&lt;div&gt;سیستمی&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;rounded=1;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="137.99959183673468" y="229.99666666666673" width="183.67346938775512" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qZdYp6hgqc6xG1bBT3IC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="qZdYp6hgqc6xG1bBT3IC-2" target="qZdYp6hgqc6xG1bBT3IC-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
