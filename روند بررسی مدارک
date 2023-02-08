@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T07:52:17.937Z" agent="5.0 (Windows)" etag="TcHqk4kvmc3o0hXtxKFE" version="20.8.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-08T10:19:06.007Z" agent="5.0 (Windows)" etag="jeHk1k3c4mpVW4qcSzck" version="20.8.16" type="github" pages="2">
   <diagram name="Page-1" id="yzhq2jbpV9woP7R0T0p-">
-    <mxGraphModel dx="1195" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,6 +214,22 @@
         </mxCell>
         <mxCell id="2Zds9yxDyUnD6EWq7Jbs-2" value="&lt;div&gt;اصلاح توسط کارگزاری&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;strokeWidth=1;shadow=0;glass=0;fontStyle=0;labelBackgroundColor=none;fillColor=none;strokeColor=default;dashed=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="69.2" y="35" width="50.39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Zds9yxDyUnD6EWq7Jbs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.588;entryDx=0;entryDy=0;endArrow=none;entryPerimeter=0;" edge="1" parent="1" source="5dsSe7JJRW0QpsnveMTH-53" target="2Zds9yxDyUnD6EWq7Jbs-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513.4897959183672" y="655" as="targetPoint" />
+            <mxPoint x="587.1292517006802" y="1057.4999999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="800" y="1058" />
+              <mxPoint x="800" y="634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Zds9yxDyUnD6EWq7Jbs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Zds9yxDyUnD6EWq7Jbs-8" target="5dsSe7JJRW0QpsnveMTH-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Zds9yxDyUnD6EWq7Jbs-8" value="&lt;div&gt;اصلاح توسط کارگزاری&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;strokeWidth=1;shadow=0;glass=0;fontStyle=0;labelBackgroundColor=none;fillColor=none;strokeColor=default;dashed=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="699.75" y="605" width="50.39" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
