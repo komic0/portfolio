@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T07:34:35.909Z" agent="5.0 (Windows)" etag="5u-16rrDUkZLwmgMz7-G" version="20.8.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-12T07:46:32.720Z" agent="5.0 (Windows)" etag="v0XY9K7dhwura69aozUm" version="20.8.18" type="github" pages="2">
   <diagram name="Page-1" id="yzhq2jbpV9woP7R0T0p-">
-    <mxGraphModel dx="1195" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="4plvBr7edB1yorrqPeMJ">
-    <mxGraphModel dx="2868" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="9zB-hBPwJnY-O8JrSREX-0" />
         <mxCell id="9zB-hBPwJnY-O8JrSREX-1" parent="9zB-hBPwJnY-O8JrSREX-0" />
@@ -313,7 +313,7 @@
         <mxCell id="Djvfgj3DTEpH7sS8RWCz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="9zB-hBPwJnY-O8JrSREX-1" source="ikF_u8ZGghqZvJoFXiXv-0" target="ikF_u8ZGghqZvJoFXiXv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikF_u8ZGghqZvJoFXiXv-0" value="&lt;div&gt;فرم قرارداد / نصب&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;flipH=1;fontSize=15;" vertex="1" parent="9zB-hBPwJnY-O8JrSREX-1">
+        <mxCell id="ikF_u8ZGghqZvJoFXiXv-0" value="&lt;div&gt;فرم پذیرش کارت&lt;/div&gt;&lt;div&gt;و&lt;/div&gt;&lt;div&gt;فرم نصب&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;flipH=1;fontSize=15;" vertex="1" parent="9zB-hBPwJnY-O8JrSREX-1">
           <mxGeometry x="322.0040816326531" y="699" width="183.67346938775512" height="72" as="geometry" />
         </mxCell>
         <mxCell id="Djvfgj3DTEpH7sS8RWCz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="9zB-hBPwJnY-O8JrSREX-1" source="ikF_u8ZGghqZvJoFXiXv-2" target="ikF_u8ZGghqZvJoFXiXv-4">
